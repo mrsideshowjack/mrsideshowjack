@@ -1,4 +1,4 @@
-### Hi there 👋
+![img](https://github.com/mrsideshowjack/jack-mason-dev/blob/master/static/images/jack-mason-dev.gif?raw=true)
 
 <!--
 **mrsideshowjack/mrsideshowjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
