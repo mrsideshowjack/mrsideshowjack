@@ -1,4 +1,7 @@
-![img](https://github.com/mrsideshowjack/jack-mason-dev/blob/master/static/images/jack-mason-dev.gif?raw=true)
+Hey Hey👋
+
+Hi, I’m Jack and I am full stack web developer currently working at IBM in London.
+I get to work on lots of exciting projects, and I am always seeking new skills and improving my existing ones.
 
 <!--
 **mrsideshowjack/mrsideshowjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
