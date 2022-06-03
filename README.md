@@ -6,7 +6,7 @@ I get to work on lots of exciting projects, and I am always seeking new skills a
 - 🔭 I’m currently working on IBM's largest microsite PartnerWorld
 - 🌱 I’m currently learning Japanese 🇯🇵, React, OpenShift!
 - 💬 Ask me about VueJS, CSS, PWA's, Sumo!
-- 📫 How to reach me: Jack@Jack-mason.dev, no spam please!
+- 📫 How to reach me: jack@jack-mason.dev, no spam please!
 
 ---
 
@@ -15,3 +15,6 @@ Links:
 - [Personal Site](https://jack-mason.dev/)
 - [LinkedIn](https://www.linkedin.com/in/jack-mason-developer/)
 - [Twitter](https://twitter.com/mrsideshowjack)
+
+
+> My enterprise github has many more green boxes! 
