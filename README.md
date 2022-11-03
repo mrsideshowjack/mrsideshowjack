@@ -18,3 +18,5 @@ Links:
 
 
 > My enterprise github has many more green boxes! 
+
+<a href="https://app.daily.dev/jack_mason_dev"><img src="https://api.daily.dev/devcards/2ae695c176db4f1fae7e28941b3ac5bc.png?r=9cg" width="400" alt="Jack Mason's Dev Card"/></a>
